@@ -1,3 +1,4 @@
+# Module parameters
 class jboss::params {
 
   ### Module specific parameters

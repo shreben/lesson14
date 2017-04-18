@@ -1,3 +1,4 @@
+# Manage jboss service
 class jboss::service {
   service { 'jbossas':
     ensure     => running,
