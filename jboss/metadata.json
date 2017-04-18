@@ -1,0 +1,15 @@
+{
+  "name": "mtn-jboss",
+  "version": "0.1.0",
+  "author": "Siarhei Hreben",
+  "summary": "Module installs simple java app",
+  "license": "Apache-2.0",
+  "source": "http://github.com/shreben",
+  "project_page": "https://github.com/shreben",
+  "issues_url": "https://github.com/shreben/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
